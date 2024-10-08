@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1728259942 source:e:\khusus c++\kerkel\kerkel_sll\main.cpp
+	<iostream>
+	"fasilitas.h"
+
+1728194419 e:\khusus c++\kerkel\kerkel_sll\fasilitas.h
+	<iostream>
+
+1728259876 source:e:\khusus c++\kerkel\kerkel_sll\fasilitas.cpp
+	<iostream>
+	"fasilitas.h"
+
+1728269497 source:c:\users\acer\downloads\kerkel_sll_fix\kerkel_sll\fasilitas.cpp
+	<iostream>
+	"fasilitas.h"
+
+1728194419 c:\users\acer\downloads\kerkel_sll_fix\kerkel_sll\fasilitas.h
+	<iostream>
+
+1728269497 source:e:\khusus c++\kerkel_sll_fix\kerkel_sll\fasilitas.cpp
+	<iostream>
+	"fasilitas.h"
+
+1728194419 e:\khusus c++\kerkel_sll_fix\kerkel_sll\fasilitas.h
+	<iostream>
+
